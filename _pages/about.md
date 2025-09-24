@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "tyx"
+title: "Yingxuan Teng's Home Page 滕影轩的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
