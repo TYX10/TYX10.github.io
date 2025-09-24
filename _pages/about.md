@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yingxuan Teng's Home Page 滕影轩的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
